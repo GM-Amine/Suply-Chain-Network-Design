@@ -31,7 +31,7 @@ Subject to:
 Where $y_j$ = DC open/close decision, $x_{ij}$ = order flow, $d_i$ = forecasted demand, $f_j$ = fixed opening cost, $c_{ij}$ = transport cost per order.
 
 ---
-
+Link to dashboard:https://suply-chain-network-design-2zfcwmtuvb3c5pmbzswrrg.streamlit.app/
 ## 🗂️ Repository Structure
 
 ```
