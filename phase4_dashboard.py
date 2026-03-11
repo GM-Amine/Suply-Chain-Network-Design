@@ -128,7 +128,7 @@ hr { border-color: #1f2433 !important; }
 # ─────────────────────────────────────────────────────────────────────────────
 # CONSTANTS — calibrated from Phase 3 results
 # ─────────────────────────────────────────────────────────────────────────────
-OUTPUT_DIR            = "C:\M2 SPA\Supply Chain\outputs"
+OUTPUT_DIR            = "./outputs"
 COST_PER_KM_PER_ORDER = 0.08
 MAX_SERVICE_DISTANCE  = 3500
 
