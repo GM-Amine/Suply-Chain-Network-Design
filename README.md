@@ -122,9 +122,9 @@ Features:
 
 | | |
 |---|---|
-| ![sensitivity](outputs/16_sensitivity_analysis.png) | ![tornado](outputs/18_tornado_diagram.png) |
+| ![sensitivity](16_sensitivity_analysis.png) | ![tornado](18_tornado_diagram.png) |
 | *Sensitivity: cost & distance vs. DC count* | *Tornado: cost sensitivity to ±20% parameter changes* |
-| ![forecast](outputs/15_forecast_by_state.png) | ![routes](outputs/06_top_routes.png) |
+| ![forecast](15_forecast_by_state.png) | ![routes](06_top_routes.png) |
 | *3-month demand forecast with 95% CI* | *Top supply→demand flow routes* |
 
 ---
