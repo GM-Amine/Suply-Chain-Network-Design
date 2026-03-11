@@ -1,0 +1,4 @@
+Scenario,Total Cost,Fixed Cost,Transport Cost,Avg Dist (km),Open DCs,N DCs
+Pessimistic (lower 95%),"R$ 915,065","R$ 395,000","R$ 520,065",247,"MG, SC, SE, SP",4
+Baseline (LightGBM),"R$ 1,047,485","R$ 405,000","R$ 642,485",267,"MG, PR, SE, SP",4
+Optimistic (upper 95%),"R$ 1,325,650","R$ 455,000","R$ 870,650",322,"BA, RJ, SC, SP",4
